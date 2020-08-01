@@ -2,6 +2,38 @@
   text-align: center;
 }
 
+#submit{
+  margin-top:20px;
+  margin-left: 6%;
+}
+#head{
+  margin-top: 20px;
+}
+
+#paging{
+  margin-top: 100px;
+  margin-left: 50%;
+  
+}
+.lists:hover {
+  background-color:#f1f1db;
+}
+.img{
+
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  border-radius: 100px;
+}
+.back{
+  margin-top: 100px;
+background-color:#bed2cc;
+}
+.size{
+  font-size: small;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
